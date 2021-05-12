@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print_hi('linwei')
     print '主分支提交'
     print 'dev-2 分支'
+    print 'dev-2 add again'
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
