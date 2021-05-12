@@ -17,4 +17,7 @@ if __name__ == '__main__':
     print 'dev-2 分支'
     print 'dev-2 add again'
 
+
+    print 'dev-1 分支'
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
